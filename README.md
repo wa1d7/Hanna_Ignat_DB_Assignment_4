@@ -105,6 +105,6 @@ View, roles, procedure, triger, etc in scripts file.
 
 ### In this project were responsible:
 
-**Ignat**-For normilize db architecture, ddl scripts, role, view, index
+**Ignat**-For normilize db architecture, ddl scripts, role, view
 
-**Hanna**-Python generation script, procedure and triggers, explain analyse
+**Hanna**-Python generation script, procedure and triggers, index. explain analyse
